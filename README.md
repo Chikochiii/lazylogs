@@ -60,7 +60,7 @@ If you see something like Python 3.10.12, you’re good to go. ✅
   ```bash
   sudo pacman -S python
   ```
-- **macOS** (pakai [Homebrew](https://brew.sh/)):
+- **macOS** (use [Homebrew](https://brew.sh/)):
   ```bash
   brew install python
   ```
@@ -147,4 +147,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Message✉️
 Please click the ⭐ (`star`) button if you like this project — it motivates me to create more projects 👉👈
 
-<img src="https://i.ibb.co.com/Fbsw7bwC/pwissss.webp" alt="pwissss" width="200px" border="0">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/Fbsw7bwC/pwissss.webp" alt="pwissss" border="0"></a>
