@@ -92,7 +92,7 @@ Explanation:
 - `30` →  archives older than 30 days will be deleted 
 - `--dry-run` → optional, simulate only without deleting/archiving 
 
-### Mode 2: Interaktif
+### Mode 2: Interactive
 Too **lazy** to type arguments? Just run:
 ```bash
 python log_archive.py
