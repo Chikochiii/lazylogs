@@ -147,4 +147,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Message✉️
 Please click the ⭐ (`star`) button if you like this project — it motivates me to create more projects 👉👈
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/Fbsw7bwC/pwissss.webp" alt="pwissss" border="0" width="200"></a>
+<a href="https://github.com/Chikochiii/simple-calculator/blob/master/src/pwissss.png" alt="pwissss" border="0" width="200"></a>
